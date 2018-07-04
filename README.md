@@ -1,6 +1,8 @@
 # HdiSolarSystem
 
-![](https://github.com/hdi-95/solar-system/blob/master/screen_shot_solar_system.png)
+![](https://github.com/hdi-95/solar-system/blob/master/screenshot.gif)
+
+live demo : http://hdi.labs.free.fr/demo/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
