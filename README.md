@@ -1,5 +1,7 @@
 # HdiSolarSystem
 
+![](https://github.com/hdi-95/solar-system/blob/master/screen_shot_solar_system.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ## Development server
