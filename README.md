@@ -1,4 +1,4 @@
-# HdiSolarSystem
+# SolarSystem
 
 ![](https://github.com/hdi-95/solar-system/blob/master/screenshot.gif)
 
